@@ -1,0 +1,42 @@
+[
+  {
+    "_id": {"$oid": "b00000000000000000000001"},
+    "managerId": {"$oid": "a00000000000000000000001"},
+    "name": "Oakmont Ridge",
+    "address": "123 Main St",
+    "apts": [],
+    "createdAt": {"$date": 1431541055820}
+  },
+  {
+    "_id": {"$oid": "b00000000000000000000002"},
+    "managerId": {"$oid": "a00000000000000000000001"},
+    "name": "Oakmont Heights",
+    "address": "123 9th St",
+    "apts": [],
+    "createdAt": {"$date": 1431541058736}
+  },
+  {
+    "_id": {"$oid": "b00000000000000000000003"},
+    "managerId": {"$oid": "a00000000000000000000001"},
+    "name": "Oakmont Estate",
+    "address": "123 Crestview St",
+    "apts": [],
+    "createdAt": {"$date": 1431541059874}
+  },
+  {
+    "_id": {"$oid": "b00000000000000000000004"},
+    "managerId": {"$oid": "a00000000000000000000002"},
+    "name": "Oakmont Crest",
+    "address": "123 Primrose Ln",
+    "apts": [],
+    "createdAt": {"$date": 1431541051352}
+  },
+  {
+    "_id": {"$oid": "b00000000000000000000005"},
+    "managerId": {"$oid": "a00000000000000000000002"},
+    "name": "Oakmont View",
+    "address": "123 Katniss Blvd",
+    "apts": [],
+    "createdAt": {"$date": 1431541050946}
+  }
+]
